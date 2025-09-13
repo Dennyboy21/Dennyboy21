@@ -7,7 +7,7 @@
 ## 🚀 Portfolio
 - **Azure Fundamentals Labs** → https://github.com/Dennyboy21/azure-fundamentals
 - **TryHackMe Portfolio** → https://github.com/Dennyboy21/tryhackme-portfolio
-- **Course Careers IT Projects** → https://github.com/Dennyboy21/course-careers-it
+- **Course Careers IT Projects** → [https://github.com/Dennyboy21/course-careers-it](https://github.com/Dennyboy21/Course-Careers-IT-Labs.git)
 
 ## 🧰 Highlights
 SIEM & log analysis • Windows/Linux fundamentals • Networking • Cloud basics (Azure) • Documentation & playbooks  
