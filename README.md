@@ -1,7 +1,7 @@
 # Hi, I’m Dennis 👋
 
 🎓 **B.S. in Cybersecurity (SNHU, May 2025)**  
-🔐 Transitioning from 23+ years in physical security into cybersecurity  
+🔐 Transitioning from 24+ years in physical security into cybersecurity  
 🎯 Aiming for SOC/NOC Analyst & Cloud Security roles
 
 ## 🚀 Portfolio
